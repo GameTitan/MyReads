@@ -6,10 +6,10 @@ My Reads is an application used to organize different bookd onto shelves. You ca
  
 To get this up and running run these commands in the project folder
 
-'''
+```
 	npm install
 	npm start
-'''
+```
 
 ## Restriction To Search
 
